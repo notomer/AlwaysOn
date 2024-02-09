@@ -1,14 +1,14 @@
 //
-//  AlwaysOnTests.swift
-//  AlwaysOnTests
+//  OnScriptTests.swift
+//  OnScriptTests
 //
-//  Created by Omer Khan on 1/22/24.
+//  Created by Omer on 2/8/24.
 //
 
 import XCTest
-@testable import AlwaysOn
+@testable import OnScript
 
-class AlwaysOnTests: XCTestCase {
+class OnScriptTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
